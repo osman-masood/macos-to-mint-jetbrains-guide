@@ -8,7 +8,7 @@ Guide for macOS developers switching to Linux Mint, specifically users of Jetbra
   - Hardware -> Orientation lock, Re-detect display devices
   - General -> Run dialog, Run expo
 
-- If you're using a PC with a Win key, swap the `Win` and `Meta` keys: https://askubuntu.com/a/692993 . This will allow you to use the Mac OS X 10.5+ keybinding, which on Linux uses `Meta` instead of `Command`. 
+- If you're using a PC with a `Win` key, swap the `Win` and `Meta` keys: https://askubuntu.com/a/692993 . This will allow you to use the Mac OS X 10.5+ keybinding, which on Linux uses `Meta` instead of `Command`. 
 
 - In System Settings -> Windows -> Behavior tab, change "Special key to move and resize windows" to Disabled or Super. This is so you'll be able to use `Alt + Mouse1Click` in the IDE.
 
