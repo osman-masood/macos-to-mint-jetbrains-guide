@@ -16,3 +16,5 @@ Guide for macOS developers switching to Linux Mint, specifically users of Jetbra
   - Note on the Keymap: I didn't map any numpad commands, nor "Next Project Window" or "Previous Project Window", since I don't know how to disable `Alt + Backtick` yet.
 
 - For a macOS-style window menu bar, go to System Settings -> Windows -> Titlebar tab, and set "Left side title bar buttons" to Close, Minimize, and Maximize, in that order. 
+
+- For macOS UI style and UI tools, see: http://www.noobslab.com/2016/04/macbuntu-1604-transformation-pack-for.html
