@@ -661,3 +661,4 @@
   <action id="tasks.switch.toolbar">
     <keyboard-shortcut first-keystroke="shift meta t" />
   </action>
+</keymap>
